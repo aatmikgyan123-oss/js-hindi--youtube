@@ -29,6 +29,6 @@ var b = {
 } 
 
 let c = function(){
-    console.log("Hello Worls");
+    console.log("Hello World");
     
 } // functions
