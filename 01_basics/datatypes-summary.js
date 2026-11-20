@@ -22,11 +22,11 @@ const bigNumber = 26566878787447n
 
 // reference examples
 
-let a = {"Captain-America", "Iron Man", "Loki", "Thor"}  // array
-let b = {
-    name : "Aatmik"
-    age : 14
-} // object
+const a = {"Captain-America" ,  "Iron Man" ,  "Loki", "Thor"} ; 
+var b = {
+    name : "Aatmik",
+    age:14,
+} 
 
 let c = function(){
     console.log("Hello Worls");
