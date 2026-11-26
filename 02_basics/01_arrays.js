@@ -5,23 +5,23 @@ const myHeros = ["Captain", "Iron-Man"]
 
 const myArray2 = new Array (1,2,3,4)
 
-console.log(myArray[0]);
+// console.log(myArray[0]);
 
 // array methods 
 
-myArray.push(6)
-myArray.pop()
+// myArray.push(6)
+// myArray.pop()
 
-myArray.unshift(9)
-myArray.shift()
+// myArray.unshift(9)
+// myArray.shift()
 
-console.log(myArray.includes(9))
-console.log(myArray.indexOf(3))
+// console.log(myArray.includes(9))
+// console.log(myArray.indexOf(3))
 
 
-const newArray = myArray.join()
-console.log(myArray);
-console.log(newArray);
+// const newArray = myArray.join()
+// console.log(myArray);
+// console.log(newArray);
 
 
 console.log("A ", myArray);
